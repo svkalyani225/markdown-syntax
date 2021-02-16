@@ -42,3 +42,7 @@ int main();
  ```
 ## link
 .[markdown](https://www.markdownguide.org/cheat-sheet/)
+## college website link
+.[kits].(https://kitsguntur.ac.in/site/kitsgnt.php)
+## gmail link
+.[gmail].(https://mail.google.com/mail/u/0/#inbox)
