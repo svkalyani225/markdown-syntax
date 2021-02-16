@@ -19,5 +19,12 @@ kalyani
 - eee
     * eeeA
     * eeeB
-    
+ ## code
+ ```python
+ def fun():
+    print("hello ")
+ ```
+ ```
+ fun()
+ ```
 
