@@ -38,7 +38,7 @@ scanf("hello apssdc");
 int main();
 {
  printf("hello apssdc");
- }
+ 
  ```
 ## link
 .[markdown](https://www.markdownguide.org/cheat-sheet/)
@@ -46,3 +46,5 @@ int main();
 .[kits].(https://kitsguntur.ac.in/site/kitsgnt.php)
 ## gmail link
 .[gmail].(https://mail.google.com/mail/u/0/#inbox)
+## inserting images
+!.[pic](https://github.com/svkalyani225/markdown-syntax/blob/master/image.jpg)
