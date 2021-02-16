@@ -31,3 +31,11 @@ kalyani
 #include<stdio.h>
 printf("hello apssdc");
 scanf("hello apssdc");
+## task
+```
+#include<stdio.h>
+int main();
+{
+ printf("hello apssdc");
+ }
+ ```
