@@ -27,4 +27,7 @@ kalyani
  ```
  fun()
  ```
-
+## task
+#include<stdio.h>
+printf("hello apssdc");
+scanf("hello apssdc");
